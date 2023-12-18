@@ -3,3 +3,4 @@ step-1-output/
 step-2-scripts/geckodriver.log
 .ipynb_checkpoints/
 __pycache__/
+.DS_Store
