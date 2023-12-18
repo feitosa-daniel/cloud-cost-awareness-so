@@ -1,0 +1,5 @@
+step-1-data/*.7z
+step-1-output/
+step-2-scripts/geckodriver.log
+.ipynb_checkpoints/
+__pycache__/
